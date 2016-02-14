@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Случайное определение</string>
+
+    <!-- fragment_definition -->
+
+    <string name="wiki_definition_fragment_title">Случайное определение</string>
+    <string name="title">Название страницы:</string>
+    <string name="definition">Выдержка:</string>
+    <string name="read_more">Читать на Википедии</string>
+
+    <!-- fragment_loading -->
+
+    <string name="fragment_loading_title">Загрузка</string>
+
+    <!-- fragment_no_connection -->
+
+    <string name="fragment_no_connection_title">Нет подключения</string>
+    <string name="no_connection_hint">Проверьте своё подключение к интернету</string>
+    <string name="retry">Обновить</string>
+</resources>

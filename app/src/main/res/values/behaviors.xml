@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="fab_hide_show_view_behavior" translatable="false">org.flycraft.android.randomwikidefinition.behaviors.ScrollAwareFABBehavior</string>
+
+</resources>

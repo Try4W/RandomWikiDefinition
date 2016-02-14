@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Random definition</string>
+
+    <!-- fragment_definition -->
+
+    <string name="wiki_definition_fragment_title">Random definition</string>
+    <string name="title">Title:</string>
+    <string name="definition">Extract:</string>
+    <string name="read_more">Read on Wikipedia</string>
+
+    <!-- fragment_loading -->
+
+    <string name="fragment_loading_title">Loading</string>
+
+    <!-- fragment_no_connection -->
+
+    <string name="fragment_no_connection_title">No connection</string>
+    <string name="no_connection_hint">Check your internet conncetion</string>
+    <string name="retry">Retry</string>
+
+</resources>
